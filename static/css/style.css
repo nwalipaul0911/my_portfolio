@@ -52,3 +52,6 @@ a,button,input, label{
   transition-duration: 500ms;
   transition-timing-function: ease-in;
 }
+input, textarea{
+  color: white;
+}

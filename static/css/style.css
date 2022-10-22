@@ -75,9 +75,9 @@ li{
   list-style: none;
 }
 li::before{
-  content: '\2217';
+  content: '\2022';
   color:rgb(205, 15, 15);
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   margin-right: 10px
 }
 ::-webkit-scrollbar {
